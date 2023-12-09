@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylewelzen
 - 👀 I’m interested in Game/App/VR development.
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning C++ and C#.
 - 💞️ I’m looking to collaborate on games and apps.
 - 📫 How to reach me kylemwgamer@gmail.com
 
